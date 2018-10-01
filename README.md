@@ -9,7 +9,7 @@ I would also include some of those algorithms/tricks that I learnt while competi
 This would be something that you would want to look at least once, everytime before you go out for coding something efficiently.
 
 Tricks table:
-1. Sieve Method for Prime numbers (https://github.com/Pradyuman7/AllAlgorithmsInJava/blob/master/SieveAlgorithmForPrimes.java)
+1. Sieve Algorithm for Prime numbers (https://github.com/Pradyuman7/AllAlgorithmsInJava/blob/master/SieveAlgorithmForPrimes.java)
 
 Find me @HackerRank : pradyuman-dixit | https://www.hackerrank.com/pradyumandixit
 

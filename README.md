@@ -11,6 +11,9 @@ This would be something that you would want to look at least once, everytime bef
 Tricks table:
 1. Sieve Algorithm for Prime numbers (https://github.com/Pradyuman7/AllAlgorithmsInJava/blob/master/SieveAlgorithmForPrimes.java)
 
+2. Finding Perfect Squares between a Large Limit
+(https://github.com/Pradyuman7/AllAlgorithmsInJava/blob/master/FindingPerfectSquaresAlgorithm.java)
+
 Find me @HackerRank : pradyuman-dixit | https://www.hackerrank.com/pradyumandixit
 
 Find me @LinkedIn : pradyuman-dixit | https://www.linkedin.com/in/pradyuman-dixit/

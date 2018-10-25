@@ -14,6 +14,9 @@ Tricks table:
 2. Finding Perfect Squares between a Large Limit
 (https://github.com/Pradyuman7/AllAlgorithmsInJava/blob/master/FindingPerfectSquaresAlgorithm.java)
 
+3. Telling Perfect Square 
+(https://github.com/Pradyuman7/AllAlgorithmsInJava/blob/master/TellingPerfectSquare.java)
+
 Find me @HackerRank : pradyuman-dixit | https://www.hackerrank.com/pradyumandixit
 
 Find me @LinkedIn : pradyuman-dixit | https://www.linkedin.com/in/pradyuman-dixit/

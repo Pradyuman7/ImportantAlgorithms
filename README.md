@@ -3,7 +3,9 @@
 ![Algorithms](https://user-images.githubusercontent.com/41565823/46194932-22257b00-c303-11e8-819a-60b02719faa0.jpeg)
 
 This is the collection of all the algorithms, that are widely used in Java.
-This holds all the basic and advanced algrithms which are widely used for **sorting, searching, moving** and others. This repository will be updated regularly, with more and new algorithms, for different kinds of problems.
+This holds all the basic and advanced algrithms which are widely used for **sorting, searching, moving** and others. 
+
+This repository will be **updated regularly, with more and new algorithms,** for different kinds of problems.
 
 I would also include some of those algorithms/tricks that I learnt while competing in coding competitions, online and offline.
 This would be something that you would want to look at least once, everytime before you go out for coding something efficiently.

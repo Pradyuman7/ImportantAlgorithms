@@ -7,8 +7,7 @@ This holds all the basic and advanced algrithms which are widely used for **sort
 
 This repository will be **updated regularly, with more and new algorithms,** for different kinds of problems.
 
-I would also include some of those algorithms/tricks that I learnt while competing in coding competitions, online and offline.
-This would be something that you would want to look at least once, everytime before you go out for coding something efficiently.
+I would also include some of those algorithms/tricks that **I learnt while competing in coding competitions, online and offline.** This would be something that you would want to look at least once, everytime before you go out for coding something efficiently.
 
 Tricks table:
 1. Sieve Algorithm for Prime numbers (https://github.com/Pradyuman7/AllAlgorithmsInJava/blob/master/SieveAlgorithmForPrimes.java)

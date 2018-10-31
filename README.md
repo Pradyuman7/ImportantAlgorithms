@@ -9,13 +9,13 @@ This repository will be **updated regularly, with more and new algorithms,** for
 
 I would also include some of those algorithms/tricks that **I learnt while competing in coding competitions, online and offline.** This would be something that you would want to look at least once, everytime before you go out for coding something efficiently.
 
-Tricks table:
-1. Sieve Algorithm for Prime numbers (https://github.com/Pradyuman7/AllAlgorithmsInJava/blob/master/SieveAlgorithmForPrimes.java)
+Link Index:
+>1. Sieve Algorithm for Prime numbers (https://github.com/Pradyuman7/AllAlgorithmsInJava/blob/master/SieveAlgorithmForPrimes.java)
 
-2. Finding Perfect Squares between a Large Limit
+>2. Finding Perfect Squares between a Large Limit
 (https://github.com/Pradyuman7/AllAlgorithmsInJava/blob/master/FindingPerfectSquaresAlgorithm.java)
 
-3. Telling Perfect Square <br>
+>3. Telling Perfect Square <br>
 (https://github.com/Pradyuman7/AllAlgorithmsInJava/blob/master/TellingPerfectSquare.java)
 
 Find me @HackerRank : pradyuman-dixit | https://www.hackerrank.com/pradyumandixit

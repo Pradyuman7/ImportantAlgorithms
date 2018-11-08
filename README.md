@@ -1,4 +1,4 @@
-# All Algorithms In Java
+# All Important Algorithms In Java
 
 ![Algorithms](https://user-images.githubusercontent.com/41565823/46194932-22257b00-c303-11e8-819a-60b02719faa0.jpeg)
 

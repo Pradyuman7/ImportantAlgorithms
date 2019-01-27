@@ -10,8 +10,7 @@ I would be including some of those algorithms/tricks that **I learnt while compe
 Link Index:
 >1. [Sieve Algorithm for Prime numbers](https://github.com/Pradyuman7/AllAlgorithmsInJava/blob/master/SieveAlgorithmForPrimes.java)
 
->2. [Finding Perfect Squares between a Large Limit
-(https://github.com/Pradyuman7/AllAlgorithmsInJava/blob/master/FindingPerfectSquaresAlgorithm.java)
+>2. [Finding Perfect Squares between a Large Limit](https://github.com/Pradyuman7/AllAlgorithmsInJava/blob/master/FindingPerfectSquaresAlgorithm.java)
 
 >3. Telling Perfect Square <br>
 (https://github.com/Pradyuman7/AllAlgorithmsInJava/blob/master/TellingPerfectSquare.java)
